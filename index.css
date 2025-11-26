@@ -5,20 +5,20 @@
     box-sizing: border-box;
     color: white;
 }
-.logo{
+.logo {
     width: 150px;
 }
 .logo img {
     width: 100%;
 }
 
-nav ul{
+nav ul {
     display: flex;
     gap: 20px;
     list-style-type: none;
 }
 
-.pin ol{
+.pin ol {
     display: flex;
     list-style-type: none;
     gap: 5px;
@@ -32,6 +32,7 @@ header{
     align-items: center;
     padding: 5px 545px 5px 0px;
     margin-bottom: 80px;
+    
 }
 
 
