@@ -1,8 +1,9 @@
 *{
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
+    color: white;
 }
 .logo{
     width: 150px;
@@ -38,6 +39,7 @@ header{
 .content {
     display: flex;
     justify-content: center;
+    text-align: center;
     flex-wrap: wrap;
 
     width: 100%;
@@ -48,6 +50,7 @@ header{
 }
 
 article img{
-
-    width: 300px;
+    display: flex;
+    flex-wrap: center;
+    width: 500px;
 }
